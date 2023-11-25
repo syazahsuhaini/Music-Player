@@ -1,4 +1,4 @@
-# link: https://www.youtube.com/watch?v=SCos1o368iE&t=533s
+# tutorial link: https://www.youtube.com/watch?v=SCos1o368iE&t=533s
 from tkinter import filedialog
 from tkinter import *
 import pygame
